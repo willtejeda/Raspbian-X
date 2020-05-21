@@ -11,3 +11,7 @@ I had a hard time finding a working Raspbian-X download link, so I'm sharing wha
 [Youtube download link](https://www.youtube.com/watch?v=bEjyuj_fLPw&feature=youtu.be)... which leads to [this Google Drive link](https://drive.google.com/file/d/1cVtLPh1tFfuVIE4WtZjuK2pxAtsO7pD9/view)  
 [Reddit link](https://www.reddit.com/r/SBCGaming/comments/glhd1p/welcome_to_iraspbian_for_pi4_another_abomination/)  
 Disclaimer: **I have no affiliation with Pi-LABS, and am by no means distributing iRaspbian or Raspbian-X, but instead simply providing links to where they can be found.**  
+
+PS: Ever wanted to run a Raspbian img before flashing it to your SD card? Introducing [Vdesktop](https://github.com/Botspot/vdesktop) - the only method that shows you the img's graphics & desktop.  
+![screenshot of Stretch running in buster](https://i.ibb.co/0yhP6sg/container-desktop-min.png)  
+I've also made a graphical version that comes with many other img manipulation tools. It's called [Pi-Power-Tools](https://github.com/Botspot/Pi-Power-Tools).
